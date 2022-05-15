@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuperLeo23
+- 👋 Hi, I’m Leo
 - 👀 I’m interested in Web developement, Game developement, and more
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: contact.superleo@gmail.com
