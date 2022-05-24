@@ -4,9 +4,9 @@
 </p>
 <p align="center"><strong>full-stack • desktop apps • mobile apps • games</strong><br /></p>
 <h2>My work</h2>
-- <a href="http://ultragames.sytes.net">Ultragames</a> - my own website, made with php runnig on my homelab
+- <a href="http://ultragames.sytes.net">Ultragames</a> - my own website, made with php runnig on my homelab with nginx
 <br>
-- <a href="http://amaoto.ml">Amaoto</a> - a website for a friend, made with php + jquery
+- <a href="http://amaoto.ml">Amaoto</a> - a website for a friend, made with php + jquery running on an apache server in the cloud
 <h2>My skills</h2>
 <p>Arranged by level (if it's low I'm not bad at it, I'm just better at the other ones)</p>
 <h3>Languages</h3>
