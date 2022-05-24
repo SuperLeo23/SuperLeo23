@@ -7,6 +7,8 @@
 - <a href="http://ultragames.sytes.net">Ultragames</a> - my own website, made with php runnig on my homelab with nginx
 <br>
 - <a href="http://amaoto.ml">Amaoto</a> - a website for a friend, made with php + jquery running on an apache server in the cloud
+<br>
+- and many more!
 <h2>My skills</h2>
 <p>Arranged by level (if it's low I'm not bad at it, I'm just better at the other ones)</p>
 <h3>Languages</h3>
@@ -21,3 +23,10 @@
 - <a href="mailto:contact.superleo@gmail.com">contact.superleo@gmail.com</a>
 <br>
 - <a href="https://beacons.ai/superleo">All about me</a>
+<hr>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SuperLeo23&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperLeo23&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
