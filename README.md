@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/61910530?v=4" />
    <h3 align="center">Hi, I'm Leo, a passionate programmer!</h3>
 </p>
-<p align="center"><strong>full-stack developer</strong><br /></p>
+<p align="center"><strong>full-stack • desktop apps • mobile apps • games</strong><br /></p>
 <h2>My work</h2>
 - <a href="http://ultragames.sytes.net">Ultragames</a> - my own website, made with php runnig on my homelab
 <br>
