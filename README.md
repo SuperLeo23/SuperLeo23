@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/61910530?v=4" />
-   <h3 align="center">Hi, I'm Leo, a passionate programmer!</h3>
+   <h3 align="center">Hi, I'm Leo, a passionate developer!</h3>
 </p>
 <p align="center"><strong>full-stack • desktop apps • mobile apps • games</strong><br /></p>
 <h2>My work</h2>
@@ -8,7 +8,7 @@
 <br>
 - <a href="http://custosite.atwebpages.com">WebDash</a> - my own website, made with php and bootstrap running on an apache server in the cloud
 <br>
-- <a href="http://amaoto.ml">Amaoto</a> - a website for a friend, made with php + jquery running on an apache server in the cloud
+- <a href="http://amaoto.ml">Amaoto</a> - a website for a company, made with php + jquery running on an apache server in the cloud
 <br>
 - and many more!
 <h2>My skills</h2>
