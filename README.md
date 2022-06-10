@@ -6,7 +6,7 @@
 <h2>My work</h2>
 - <a href="http://ultragames.sytes.net">Ultragames</a> - my own website, made with php runnig on my homelab with nginx
 <br>
-- <a href="http://custosite.atwebpages.net">WebDash</a> - my own website, made with php and bootstrap running on an apache server in the cloud
+- <a href="http://custosite.atwebpages.com">WebDash</a> - my own website, made with php and bootstrap running on an apache server in the cloud
 <br>
 - <a href="http://amaoto.ml">Amaoto</a> - a website for a friend, made with php + jquery running on an apache server in the cloud
 <br>
