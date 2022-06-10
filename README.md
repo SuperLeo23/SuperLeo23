@@ -10,7 +10,7 @@
 <br>
 - <a href="http://amaoto.ml">Amaoto</a> - a website for a company, made with php + jquery running on an apache server in the cloud
 <br>
-- and many more!
+- and much more!
 <h2>My skills</h2>
 <p>Arranged by level (if it's low I'm not bad at it, I'm just better at the other ones)</p>
 <h3>Coding</h3>
