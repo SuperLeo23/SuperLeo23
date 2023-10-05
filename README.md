@@ -21,7 +21,7 @@
 <p>Arranged by level (if it's low I'm not bad at it, I'm just better at the other ones)</p>
 <h3>Coding</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,py,php,java,dotnet,arduino,nodejs,discord,bash&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,php,java,dotnet,arduino,discord,bash&perline=11" />
 </p>
 <h3>Software</h3>
 <p align="center">
